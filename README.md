@@ -1,7 +1,3 @@
-Certainly! Below is a sample README file for the provided code:
-
----
-
 # Stock Management System
 
 This Python application uses Tkinter for creating a graphical user interface (GUI) to manage a stock of items. Users can add, update, display, and remove items from the stock using the provided interface.
